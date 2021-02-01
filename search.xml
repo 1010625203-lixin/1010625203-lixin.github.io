@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My awesome title</title>
+    <url>/2016/10/13/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%9510/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>标日初级上语法(1)</title>
     <url>/2021/01/24/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%951/</url>
     <content><![CDATA[<h2 id="第一课"><a href="#第一课" class="headerlink" title="第一课"></a>第一课</h2><h4 id="①A-N-は-B-N-です"><a href="#①A-N-は-B-N-です" class="headerlink" title="①A(N)　は　B(N)　です"></a>①A(N)　は　B(N)　です</h4><h4 id="意思-A是B-は前面是主语-后面是谓语。助词は用于提示主题。"><a href="#意思-A是B-は前面是主语-后面是谓语。助词は用于提示主题。" class="headerlink" title="意思: A是B,　は前面是主语, 后面是谓语。助词は用于提示主题。"></a>意思: A是B,　は前面是主语, 后面是谓语。助词は用于提示主题。</h4><h5 id="例句"><a href="#例句" class="headerlink" title="例句"></a>例句</h5><p><b>李さん</b>は<b>中国人</b>です。(小李是中国人)</p>
@@ -17,19 +30,6 @@
       </categories>
       <tags>
         <tag>日语语法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My awesome title</title>
-    <url>/2016/10/13/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%9510/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
       </tags>
   </entry>
   <entry>
@@ -109,6 +109,28 @@
       </tags>
   </entry>
   <entry>
+    <title>标日初级上语法(6)</title>
+    <url>/2021/01/25/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%956/</url>
+    <content><![CDATA[<h2 id="第六课"><a href="#第六课" class="headerlink" title="第六课"></a>第六课</h2><h4 id="①N-场所-へ-V"><a href="#①N-场所-へ-V" class="headerlink" title="①N(场所) + へ + V"></a>①N(场所) + へ + V</h4><h4 id="解析-へ提示移动行为的目的地"><a href="#解析-へ提示移动行为的目的地" class="headerlink" title="解析: へ提示移动行为的目的地"></a>解析: へ提示移动行为的目的地</h4><h5 id="例句"><a href="#例句" class="headerlink" title="例句"></a>例句</h5><p>李さんは中国へ行きます。(小李去中国)<br>李さんは中国へ帰ります。(小李回中国)  </p>
+<hr>
+<hr>
+<h4 id="②N-人-と-V"><a href="#②N-人-と-V" class="headerlink" title="②N(人) + と + V"></a>②N(人) + と + V</h4><h4 id="解析-と提示共同做某事的对象"><a href="#解析-と提示共同做某事的对象" class="headerlink" title="解析: と提示共同做某事的对象"></a>解析: と提示共同做某事的对象</h4><h5 id="例句-1"><a href="#例句-1" class="headerlink" title="例句"></a>例句</h5><p>小野さんは友達と帰りました。(小野女士和朋友一起回去了)</p>
+<hr>
+<hr>
+<h4 id="③N-交通工具-で-V"><a href="#③N-交通工具-で-V" class="headerlink" title="③N(交通工具) + で + V"></a>③N(交通工具) + で + V</h4><h4 id="解析-で提示交通手段"><a href="#解析-で提示交通手段" class="headerlink" title="解析: で提示交通手段"></a>解析: で提示交通手段</h4><h5 id="例句-2"><a href="#例句-2" class="headerlink" title="例句"></a>例句</h5><p>上海まで飛行機でいきます。(乘坐飞机去上海)</p>
+<hr>
+<hr>
+<h4 id="④N-场所1-から-N-场所2-まで-V"><a href="#④N-场所1-から-N-场所2-まで-V" class="headerlink" title="④N(场所1) + から + N(场所2) + まで + V"></a>④N(场所1) + から + N(场所2) + まで + V</h4><h4 id="解析-表示移动的范围，范围起点是场所1，终点是场所2"><a href="#解析-表示移动的范围，范围起点是场所1，终点是场所2" class="headerlink" title="解析: 表示移动的范围，范围起点是场所1，终点是场所2"></a>解析: 表示移动的范围，范围起点是场所1，终点是场所2</h4><h5 id="例句-3"><a href="#例句-3" class="headerlink" title="例句"></a>例句</h5><p>森さんは東京から広島まで新幹線でいきます。(森先生从东京乘坐新干线去广岛)</p>
+<h4 id="小贴士"><a href="#小贴士" class="headerlink" title="小贴士"></a>小贴士</h4><p><b>※</b> から和まで可以单独使用(同标日初级上语法5)</p>
+]]></content>
+      <categories>
+        <category>日语</category>
+      </categories>
+      <tags>
+        <tag>日语语法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>标日初级上语法(5)</title>
     <url>/2021/01/25/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%955/</url>
     <content><![CDATA[<h2 id="第五课"><a href="#第五课" class="headerlink" title="第五课"></a>第五课</h2><h4 id="①今-いま-～時-じ-～分-ふん-です"><a href="#①今-いま-～時-じ-～分-ふん-です" class="headerlink" title="①今(いま)～時(じ)～分(ふん)です"></a>①今(いま)～時(じ)～分(ふん)です</h4><h4 id="意思-现在是xx时xx分"><a href="#意思-现在是xx时xx分" class="headerlink" title="意思: 现在是xx时xx分"></a>意思: 现在是xx时xx分</h4><h5 id="例句"><a href="#例句" class="headerlink" title="例句"></a>例句</h5><p>今4時です。(现在是4点)<br>今8時30分です。(现在是8点30分)  </p>
@@ -127,28 +149,6 @@
 <hr>
 <hr>
 <h4 id="⑤いつ-Vますか"><a href="#⑤いつ-Vますか" class="headerlink" title="⑤いつ + Vますか"></a>⑤いつ + Vますか</h4><h4 id="意思-什么时候做V？"><a href="#意思-什么时候做V？" class="headerlink" title="意思: 什么时候做V？"></a>意思: 什么时候做V？</h4><h5 id="例句-5"><a href="#例句-5" class="headerlink" title="例句"></a>例句</h5><p>試験はいつ始まりますか？(什么时候开始考试？)</p>
-]]></content>
-      <categories>
-        <category>日语</category>
-      </categories>
-      <tags>
-        <tag>日语语法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>标日初级上语法(6)</title>
-    <url>/2021/01/25/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%956/</url>
-    <content><![CDATA[<h2 id="第六课"><a href="#第六课" class="headerlink" title="第六课"></a>第六课</h2><h4 id="①N-场所-へ-V"><a href="#①N-场所-へ-V" class="headerlink" title="①N(场所) + へ + V"></a>①N(场所) + へ + V</h4><h4 id="解析-へ提示移动行为的目的地"><a href="#解析-へ提示移动行为的目的地" class="headerlink" title="解析: へ提示移动行为的目的地"></a>解析: へ提示移动行为的目的地</h4><h5 id="例句"><a href="#例句" class="headerlink" title="例句"></a>例句</h5><p>李さんは中国へ行きます。(小李去中国)<br>李さんは中国へ帰ります。(小李回中国)  </p>
-<hr>
-<hr>
-<h4 id="②N-人-と-V"><a href="#②N-人-と-V" class="headerlink" title="②N(人) + と + V"></a>②N(人) + と + V</h4><h4 id="解析-と提示共同做某事的对象"><a href="#解析-と提示共同做某事的对象" class="headerlink" title="解析: と提示共同做某事的对象"></a>解析: と提示共同做某事的对象</h4><h5 id="例句-1"><a href="#例句-1" class="headerlink" title="例句"></a>例句</h5><p>小野さんは友達と帰りました。(小野女士和朋友一起回去了)</p>
-<hr>
-<hr>
-<h4 id="③N-交通工具-で-V"><a href="#③N-交通工具-で-V" class="headerlink" title="③N(交通工具) + で + V"></a>③N(交通工具) + で + V</h4><h4 id="解析-で提示交通手段"><a href="#解析-で提示交通手段" class="headerlink" title="解析: で提示交通手段"></a>解析: で提示交通手段</h4><h5 id="例句-2"><a href="#例句-2" class="headerlink" title="例句"></a>例句</h5><p>上海まで飛行機でいきます。(乘坐飞机去上海)</p>
-<hr>
-<hr>
-<h4 id="④N-场所1-から-N-场所2-まで-V"><a href="#④N-场所1-から-N-场所2-まで-V" class="headerlink" title="④N(场所1) + から + N(场所2) + まで + V"></a>④N(场所1) + から + N(场所2) + まで + V</h4><h4 id="解析-表示移动的范围，范围起点是场所1，终点是场所2"><a href="#解析-表示移动的范围，范围起点是场所1，终点是场所2" class="headerlink" title="解析: 表示移动的范围，范围起点是场所1，终点是场所2"></a>解析: 表示移动的范围，范围起点是场所1，终点是场所2</h4><h5 id="例句-3"><a href="#例句-3" class="headerlink" title="例句"></a>例句</h5><p>森さんは東京から広島まで新幹線でいきます。(森先生从东京乘坐新干线去广岛)</p>
-<h4 id="小贴士"><a href="#小贴士" class="headerlink" title="小贴士"></a>小贴士</h4><p><b>※</b> から和まで可以单独使用(同标日初级上语法5)</p>
 ]]></content>
       <categories>
         <category>日语</category>
@@ -206,16 +206,22 @@
       </tags>
   </entry>
   <entry>
-    <title>My awesome title</title>
-    <url>/2016/10/13/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%959/</url>
-    <content><![CDATA[]]></content>
+    <title>标日初级上语法(9)</title>
+    <url>/2021/02/01/%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E8%AF%AD%E6%B3%959/</url>
+    <content><![CDATA[<h2 id="第九课"><a href="#第九课" class="headerlink" title="第九课"></a>第九课</h2><h4 id="①N-は-adj1-敬体四态"><a href="#①N-は-adj1-敬体四态" class="headerlink" title="①N は adj1(敬体四态)"></a>①N は adj1(敬体四态)</h4><h4 id="解析-N是adj-1"><a href="#解析-N是adj-1" class="headerlink" title="解析: N是adj(1)"></a>解析: N是adj(1)</h4><h5 id="例句"><a href="#例句" class="headerlink" title="例句"></a>例句</h5><p>四川料理は辛いです。(四川料理是辣的)<br>四川料理は辛くないです。(四川料理是不辣的)<br>四川料理は辛かったです。(四川料理之前是辣的)<br>四川料理は辛くなかったです。(四川料理之前是不辣的)</p>
+<h5 id="小贴士"><a href="#小贴士" class="headerlink" title="小贴士"></a>小贴士</h5><p>adj1的否定形式除了「くない」还有「くありません」上面句子就等价于:<br>四川料理は辛くないです。 = 四川料理は辛くありません。<br>四川料理は辛くなかったです。 = 四川料理は辛くありませんでした。</p>
+<hr>
+<hr>
+<h4 id="②adj1-N"><a href="#②adj1-N" class="headerlink" title="②adj1 + N"></a>②adj1 + N</h4><h4 id="意思-adj1的N"><a href="#意思-adj1的N" class="headerlink" title="意思: adj1的N"></a>意思: adj1的N</h4><h5 id="例句-1"><a href="#例句-1" class="headerlink" title="例句"></a>例句</h5><p>広い国(广阔的国家)</p>
+<hr>
+<hr>
+<h4 id="③程度的副词"><a href="#③程度的副词" class="headerlink" title="③程度的副词"></a>③程度的副词</h4><h4 id="とても-たいへん-很，非常-gt-少-すこ-し-ちょっと-一点儿-gt-あまり-不太～-gt-全然-ぜんぜん-根本不"><a href="#とても-たいへん-很，非常-gt-少-すこ-し-ちょっと-一点儿-gt-あまり-不太～-gt-全然-ぜんぜん-根本不" class="headerlink" title="とても/たいへん(很，非常) &gt; 少(すこ)し/ちょっと(一点儿) &gt; あまり(不太～) &gt; 全然(ぜんぜん)(根本不)"></a>とても/たいへん(很，非常) &gt; 少(すこ)し/ちょっと(一点儿) &gt; あまり(不太～) &gt; 全然(ぜんぜん)(根本不)</h4><h5 id="解析-あまり和全然后接否定-99-都是否定"><a href="#解析-あまり和全然后接否定-99-都是否定" class="headerlink" title="解析: あまり和全然后接否定(99%都是否定)"></a>解析: あまり和全然后接否定(99%都是否定)</h5><h5 id="例句-2"><a href="#例句-2" class="headerlink" title="例句"></a>例句</h5><p>この料理はとても美味しいです。(这个料理非常好吃)<br>この料理は少し美味しいです。(这个料理有点儿好吃)<br>この料理はあまり美味くないです。(这个料理不好吃)<br>この料理は全然美味くないです。(这个料理完全不好吃)  </p>
+]]></content>
       <categories>
-        <category>分类1</category>
-        <category>分类2</category>
+        <category>日语</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
+        <tag>日语语法</tag>
       </tags>
   </entry>
 </search>
